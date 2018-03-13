@@ -4,5 +4,6 @@ int main()
 {
 	int a = 00;
 	int b = 0;
+	!@!@$$$$
 	return;
 } 
